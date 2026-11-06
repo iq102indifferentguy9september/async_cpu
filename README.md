@@ -14,7 +14,7 @@ Each folder is one block of the CPU, with its own README.
 
 ## Contacts / Связь  
 
-Telegram: https://t.me/async_cpu  
+Telegram: https://t.me/async_cpu_dev  
 
 ## License / Лицензия
 
